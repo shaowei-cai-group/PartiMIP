@@ -1,3 +1,18 @@
+/*=====================================================================================
+
+    Filename:     MIPNode.h
+
+    Description:
+        Version:  1.0
+
+    Author:       Peng Lin, linpeng@ios.ac.cn
+
+    Organization: Shaowei Cai Group,
+                  Institute of Software,
+                  Chinese Academy of Sciences,
+                  Beijing, China.
+
+=====================================================================================*/
 #pragma once
 #include "../utils/header.h"
 #include "../utils/paras.h"

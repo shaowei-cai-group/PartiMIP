@@ -1,3 +1,18 @@
+/*=====================================================================================
+
+      Filename:     MIPNode.cpp
+
+    Description:
+        Version:  1.0
+
+    Author:       Peng Lin, linpeng@ios.ac.cn
+
+    Organization: Shaowei Cai Group,
+                  Institute of Software,
+                  Chinese Academy of Sciences,
+                  Beijing, China.
+
+=====================================================================================*/
 #include "MIPNode.h"
 
 void MIPNode::DealOptimal(const HighsSolution &_reducedSolution)

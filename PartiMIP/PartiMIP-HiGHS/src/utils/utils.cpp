@@ -1,3 +1,18 @@
+/*=====================================================================================
+
+    Filename:     utils.cpp
+
+    Description:
+        Version:  1.0
+
+    Author:       Peng Lin, linpeng@ios.ac.cn
+
+    Organization: Shaowei Cai Group,
+                  Institute of Software,
+                  Chinese Academy of Sciences,
+                  Beijing, China.
+
+=====================================================================================*/
 #include "header.h"
 
 void RecreateDirectory(const string &_path)

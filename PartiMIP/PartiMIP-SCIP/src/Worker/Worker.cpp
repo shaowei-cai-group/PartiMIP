@@ -1,3 +1,18 @@
+/*=====================================================================================
+
+    Filename:     Worker.cpp
+
+    Description:
+        Version:  1.0
+
+    Author:       Peng Lin, linpeng@ios.ac.cn
+
+    Organization: Shaowei Cai Group,
+                  Institute of Software,
+                  Chinese Academy of Sciences,
+                  Beijing, China.
+
+=====================================================================================*/
 #include "Worker.h"
 
 Worker::Worker(int _tid, Scheduler *_scheduler)
