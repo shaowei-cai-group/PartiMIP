@@ -4,7 +4,7 @@
 
 **Parallel MIP Solving with Dynamic Task Decomposition**
 
-**Authors:** Peng Lin, Shaowei Cai*, Mengchuan Zou and Shenqi Chen
+**Authors:** Peng Lin, Shaowei Cai*, Mengchuan Zou and Shengqi Chen
 
 </div>
 
